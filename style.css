@@ -1,6 +1,11 @@
 h1, label, input, textarea, button {
-    display: block;
-    margin-left: 55px;
+    display: flex;
+    margin: 5px 5px 25px 35px;
+
+}
+
+button {
+    margin: 55px 0px 25px 55px;
 }
 
 
